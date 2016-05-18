@@ -5,7 +5,7 @@ prettify switch button or form radio input jQuery plugin.
 
 [demo](http://demo.menglab.com/jquery.bool-switch/demo.html)
 
-<pre>
+```
 useage:
 $(function(){
     $.boolSwitch(
@@ -14,4 +14,4 @@ $(function(){
         'hidden_name'   // 开关的状态需要同步到的输入框，不设置则不需要同步更新
     );
 });
-</pre>
+```
