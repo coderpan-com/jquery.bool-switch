@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>jQuery.bool-switch</title>
+<link rel="stylesheet" href="jquery.bool-switch.css" />
+</head>
+<body>
+<div class="wp">
+  <input type="hidden" name="hidden_name" value="0" />
+  <a id="is-enabled"></a>
+</div>
+
+<script src="http://cdn.bootcss.com/jquery/1.12.3/jquery.min.js"></script>
+<script src="jquery.bool-switch.js"></script>
+<script>
+$(function(){
+    $.boolSwitch('#is-enabled', 1, 'hidden_name');
+});
+</script>
+</body>
+</html>

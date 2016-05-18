@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+.bool-switch-wp { width:110px; height:40px; display:inline-block; *display:inherit; *zoom:1; background:#666; border-radius:20px; }
+.bool-switch-text { width:66px; line-height:40px; font-size:14px; font-weight:bold; float:left; text-align:center; display:none; color:#fff; }
+.bool-switch-icon { width:38px; height:38px; background:#fff; display:block; margin:1px; float:left; border-radius:50%; }
+.bool-switch-off .text-off { display:block; }
+a:hover .bool-switch-off { background:#000; }
+a:hover .bool-switch-off .text-off { display:none; }
+a:hover .bool-switch-off .text-to-on { display:block; }
+.bool-switch-on { background:#4b0; }
+.bool-switch-on .bool-switch-icon { float:right; }
+.bool-switch-on .text-on { display:block; }
+a:hover .bool-switch-on { background:#f00; }
+a:hover .bool-switch-on .text-on { display:none; }
+a:hover .bool-switch-on .text-to-off { display:block; }
