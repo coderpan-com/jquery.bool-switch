@@ -1,4 +1,4 @@
-开关选项jQuery插件
+开关选项jQuery插件 jquery.bool-switch
 ============================
 开关按钮/单选按钮的表单输入框美化插件
 prettify switch button or form radio input jQuery plugin.

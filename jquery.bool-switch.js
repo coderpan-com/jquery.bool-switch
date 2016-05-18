@@ -1,4 +1,10 @@
-(function($, window, document, undefined) {
+/**
+ * jquery.bool-switch
+ * 
+ * @author erzh
+ * @link https://github.com/erzh/jquery.bool-switch
+ */
+;(function($, window, document, undefined) {
     /**
      * @param string displaySelector 显示按钮的选择器，把开关选项按钮放入那个标签中
      * @param int inputVal 当前按钮状态，0）关闭/停用；1）打开/启用
