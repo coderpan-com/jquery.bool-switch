@@ -3,7 +3,8 @@
 开关按钮/单选按钮的表单输入框美化插件
 prettify switch button or form radio input jQuery plugin.
 
-[demo](http://demo.menglab.com/jquery.bool-switch/demo.html)
+[MIT License](http://opensource.org/licenses/MIT)
+[Demo](http://demo.menglab.com/jquery.bool-switch/demo.html)
 
 ```
 useage:

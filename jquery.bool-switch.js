@@ -2,6 +2,7 @@
  * jquery.bool-switch
  * 
  * @author erzh
+ * @license MIT
  * @link https://github.com/erzh/jquery.bool-switch
  */
 ;(function($, window, document, undefined) {
